@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta viewport="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>George Patton</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <main id="main">
+    <div id="title">
+      <h1>General George S. Patton</h1>
+      <p>The "Old-Blood-And-Guts"</p>
+    </div>
+    <figure id="img-div">
+      <img src="https://cdn.britannica.com/46/205846-004-5C6F4F63/George-Patton-Omar-Bradley-Bernard-Montgomery-World-War-II-1944.jpg?s=1500x700&q=85" id="image" >
+      <figcaption id="img-caption">George S. Patton, Omar Bradley, and Bernard Montgomery meeting to discuss the progress of the Normandy campaign, August 17, 1944.</figcaption>
+    </figure>
+    <div id="tribute-info">
+      <h3>Life of George S. Patton:</h3>
+      <ul>
+        <li>1885: Born in San Gabriel, California</li>
+        <li>1909: Graduated from West Point Academy, commissioned as a second lieutenant in the cavalary branch of the U.S army at Ft Sheridan I.L.</li>
+        <li>1910: Marries Wife Beatrice Banning Ayer</li>
+        <li>1911: Transferred to Ft Meyer, Virginia.</li>
+        <li>1912: Competed in the pentathlon on the 1912 olympics, finished 5th place</li>
+        <li>1913: Redesigned the cavalry sabre into the "Model 1913 Saber" or AKA the "Patton Saber" </li>
+        <li>1915: Graduated from Mounted Service School at Ft Riley, Kansas. Transferred to the 8th Cavalry in Ft Bliss, Texas.</li>
+        <li>1916: Assigned to John Pershing during the Pancho Villa Expedition, where he would learn his leadership style. Reassigned to the 13th Cavalry to assist in the manhunt for Villa. May 14th would become the first motorized attack in the U.S History of warfare. Promoted to 1st lieutenant shortly after. </li>
+        <li>1917: WW1 Starts, Patton enters pershings staff and is promted to captain in may.In november of 1917, patton established the AEF Light tank school.</li>
+        <li>1918: Promoted to major on Jan 26th. Became the only U.S Soldier with tank driving experience. Promoted to lieutenant colonel on April 3rd. Placed in charge of the U.S 1st Provisional tank Brigade in August. WW1 Ends November 11th. Awarded Army Distingushed Service Medal, Distinguished Service Cross and Purple Heart Ribbon. </li>
+        <li>1919: Assigned to Camp Meade, Maryland.</li>
+        <li>1920: Reassigned to the 3rd Squadron, 3rd Cavalry at Ft Myer.</li>
+        <li>1922: Attended field officer course at Cavalry School at Ft Meyer.</li>
+        <li>1923: Attended Command and General Staff College. Awarded Silver Lifesaving Medal</li>
+        <li>1925: Reassigned as a G1 and G2 at Schofield Barracks in Hawii.</li>
+        <li>1927: Transferred to the Office of the Cheif of Cavalry in D.C</li>
+        <li>1931: Left Office of the Cheif of Cavalry, Attended Army War College. </li>
+        <li>1932: Graduated Army War College </li>
+        <li>1934: Promoted to lieutenant Colonel. </li>
+        <li>1931: Left Office of the Cheif of Cavalry, Attended Army War College. </li>
+        <li>1938: Promoted to Colonel, given command of the 5th cavalry. </li>
+        <li>1939: WW2 Starts, Promoted to brigadier general on Oct 2nd.</li>
+        <li>1941: Promoted to Major General, became commanding general of the 2nd Armored Division.</li>
+        <li>1942: Became Commander of the I Armored Corps, established desert training center. Became known as the "blood and guts" after an interview with a reporter. Summer of 42 he commanded the Western Task Force.</li>
+        <li>1943: Replaced Major General Fredendall after the defeat of the U.S II Corps at the Battle of Kasserine Pass and promoted to lieutenant general. On march 17th, under his leadership the 1st Infantry Division took Gafsa, putting an end to the Battle of El Guettar in the North Africa Campaign. </li>
+        <li>1944: After reaching the Fotress of Metz, on November 21st he forced a german surrender after 10 weeks, ending the Battle of Metz. In December Patton was able to disengage 6 divisions and re-route them to bastone. After heavy fighting, on dec 26th his troops reached bastone, opening a corridor of relief for the besiged troops. This would become his greatest achievement during the war.</li>
+        <li>1945: Promoted to General, WW2 ends may 8th. Was relieved of command on September 28th. While partaking in a car ride to go pheasant hunting, the car collided with a military truck at low speed. Patton was severly injured and succumbd to his injuries on December 21st, 1945 </li>
+    </div>
+    <p>For more info on General George S. Patton you can follow this <a href="https://en.wikipedia.org/wiki/George_S._Patton" id="tribute-link" target="_blank">link</a>
+  </main>      
+</html>
