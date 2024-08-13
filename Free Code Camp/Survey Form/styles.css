@@ -1,0 +1,53 @@
+body {
+  
+    background-color:#ffe4c4;
+    font-size:25px;
+  }
+  
+  h1, p {
+    text-align: center;
+  }
+  
+  input[type="text"], input[type="email"], input[type="number"], textarea, select {
+    width:100%;
+    margin:15px 0
+  }
+  
+  fieldset {
+    border:none;
+  }
+  
+  .radio, .check {
+    min-height:1.5em;
+    min-width:1.5em;
+    margin-right:1rem;
+  }
+  
+  form {
+    margin:0 auto;
+    max-width:700px;
+    min-width:300px;
+    background-color:rgb(128, 128, 128, 70%);
+    border-radius:30px;
+    padding-bottom:2em;
+  }
+  
+  input, select, textarea {
+    margin:.5em 0;
+    min-height:2.5em;
+    border:none;
+    border-radius:5px;
+    padding:5px 7px; 
+    
+  }
+  
+  label {
+    display: block;
+    margin:.5em;
+  }
+  
+  input[type="submit"] {
+    margin:0 auto;
+    display:block;
+    width:60%
+  }

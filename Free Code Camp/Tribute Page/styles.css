@@ -1,11 +1,13 @@
 body {
   text-align:center;
+  font-size: 18px;
   
 }
 
 #main {
-  margin: 30 8 30 8;
+  margin: 30px;
   background-color:#eee;
+  border-radius: 20px;
 }
 
 #title {
@@ -17,6 +19,7 @@ body {
   width:90%;
   margin: 10px auto;
   padding:20px;
+  border-radius: 5px;
 }
 
 #img-caption {
@@ -28,6 +31,7 @@ img {
   height:auto;
   display:block;
   margin:0 auto;
+  border-radius: 5px;
 }
 
 #tribute-info {
@@ -40,6 +44,11 @@ img {
   margin:0 auto;
 }
 
-#tribute-info li {
+#tribute-info li{
   padding: 10px;
 }
+
+#bottom-link {
+  padding: 20px;
+}
+
